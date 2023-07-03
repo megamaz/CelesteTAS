@@ -1,0 +1,15 @@
+# ontasity
+# https://gamebanana.com/mods/434494
+
+RecordCount: 1609
+console load SheKong/ontasity/ontasity -344 -166
+
+#lvl_A-10
+  37
+   7,R
+   1,R,J
+  14,L,D,X
+   1,R,J
+   8,R,D,X
+  10,L,J
+1000,P

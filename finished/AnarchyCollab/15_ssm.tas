@@ -1,0 +1,224 @@
+# AnarchyCollab2022
+# https://gamebanana.com/mods/413521
+
+RecordCount: 330
+
+console load AnarchyCollab2022/1-Submissions/15_ssm
+   1
+
+#Start
+  61
+
+#lvl_a-00
+  10,R,D,X
+   3,R,J
+   5,R,K,G
+   2,R
+   1,R,J,G
+   1,R
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+  10,R,D,X
+   4,R,J
+   4,R,K,G
+   7,R
+  14,R,D,X
+   3,R,J
+  14,R,D,X
+   1,R,J
+  10,R,D,X
+   3,R,J
+  40
+
+#lvl_a-01
+   2,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   3,R,J
+   9,R
+  10,L,J
+   3,L
+   4,L,J
+  10,L,K,G
+   1
+  14,L,U,G
+  15,R,U,X
+  13,R
+  14,R,D,X
+   1,R,J
+  10,R,X
+  40
+
+#lvl_a-02
+   4
+  10,R,J
+   6,R
+   8,R,U,G
+  15,L,X
+  18,D
+  10
+  14,U,X
+   3,R,J
+  17,R
+  12,R,D,C
+   1,R,J
+   7,L
+   4,L,J
+   1,L,K,G
+   8,L,J,G
+   4,L
+   5
+  10,U,G
+  15,R,D,X
+   2,R,J
+   3,R,J,G
+  14,R,D,X
+   1,R,J
+  12,R,D,X
+  40
+
+#lvl_a-03
+   2
+   1,R,J
+   7,R
+   1,R,J
+  10,L
+   1,L,J
+  14,L
+  14,L,J
+   1,L,K,G
+  14,U,G
+  15,R,U,X
+  24,U
+  15,U,X
+   5,R
+   7,R,K,G
+   4
+   3,R
+  15,R,X
+  15,R,D,C
+  10,R
+  10,L,J
+   5,L,K,G
+  15,U,G
+  15,U,X
+  73,R
+  15,R,D,X
+  17,R,D
+  14,R,D,X
+   1,R,J
+  40
+
+#lvl_a-03b
+  14,R,D,X
+   1,R,J
+  15,R,D,X
+  11,L
+   1,L,J
+   6,L
+   8,U,G
+  15,D,X
+  36,D
+  30
+  14,R,D,X
+   4,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+  40
+
+#lvl_a-03c
+   5,R,J
+  12,R,D
+  11,U,G
+  15,L,U,X
+  30
+  15,R,U,X
+  33
+  14,R,D,X
+   3,R,J
+   9,R
+  14,R,Z
+   1,R,J
+   8,R
+   1,R,J
+  10,L
+   4,L,J
+   8,L,K
+  16,U,G
+  15,R,U,X
+  37,R
+  13
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+  11,R,D,X
+  40
+
+#lvl_a-04
+   3
+   1,R,J
+   7,R
+   1,R,J
+  15,L
+  19,L,J
+   3,L,K,G
+  14,U,G
+  11,R,U,X
+  20
+  13,R
+   8,R,J,G
+  11,R
+  10,R,X
+   3,R,J
+   1,R,K,G
+  13,R
+   1,L,J
+  10,L
+  12,J
+  10,L,K,G
+  14,U,G
+  15,R,U,X
+  76,R
+  19,R,D
+  14,R,D,X
+   1,R,J
+   7,R
+   1,R,J
+  15,L
+   7
+   8,L,K
+  14,U,G
+  15,D,X
+  19,D
+  25,R,D
+   3,R,J
+   2,R,K,G
+  14,R,D,X
+   3,R,J
+   4,R,K,G
+  10,R,X
+   3,R,J
+   2,R,K,G
+  14,R,D,X
+   2,R,J
+  40
+
+#lvl_a-05
+   1,R,J
+  10,R,X
+   3,R,J,G
+   6,R
+   3,R,J,G
+   4,R
+   1,R,J,G
+  14,R,D
+  15,U,C
+ 139,D
+
+ChapterTime: 0:35.275(2075)

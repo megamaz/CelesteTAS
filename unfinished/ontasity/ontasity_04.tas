@@ -1,0 +1,23 @@
+# ontasity
+# https://gamebanana.com/mods/434494
+
+RecordCount: 187
+
+console load SheKong/ontasity/ontasity 21 416
+   1
+
+#Start
+  37
+
+#lvl_A-04
+  14,R,X
+   2,R,J
+   6,R,X
+StunPause
+   4
+   3,R,K,G
+   3,R,J,G
+   3,R,K,G
+   2,R,J,G
+ 100,R,D
+EndStunPause
